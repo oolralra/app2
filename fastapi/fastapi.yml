@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: con-fast
-        image: 176381617529.dkr.ecr.ap-northeast-2.amazonaws.com/fast:1
+        image: 176381617529.dkr.ecr.ap-northeast-2.amazonaws.com/fast:2
 
 ---
 apiVersion: v1
